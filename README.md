@@ -6,8 +6,7 @@ This repository is for showing how Git and GitHub work
 SOme changed text
 
 ## Purpose1
-
-Sample website with plenty of files for demos
+Some more changed text
 
 ## Purpose2
 
